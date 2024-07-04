@@ -1,7 +1,9 @@
 ## Hi there, I'm Sasanthi Lakmini👋
 
 # 💫 About Me:
-🔭 I’m currently working on AI/ML, DevOps<br>🌱 I’m currently learning Java SrpingBoot, AWS and Azure services<br>
+👍 I have experience in Java, Python, React.js, JavaScript, React Native <br>
+🌱 I’m currently learning AI/ML, DevOp, Java SrpingBoot, AWS and Azure services, Java SrpingBoot<br>
+🔭 I’m currently working on a social media application for book lovers "BookPal"<br>
 
 
 ## 🌐 Socials:
