@@ -1,11 +1,10 @@
 ## Hi there, I'm Sasanthi Lakmini👋
 
 <!--
-**sasanthi65/sasanthi65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sasanthi65/sasanthi65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 # 💫 About Me:
 🔭 I’m currently working on AI/ML, DevOps<br>🌱 I’m currently learning Java SrpingBoot, AWS and Azure services<br> 😄 I have experience in Java, Python, JavaScript
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sasanthi-lakmini/) 
