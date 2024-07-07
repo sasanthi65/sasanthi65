@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 👍 I have experience in Java, Python, React.js, JavaScript, React Native <br>
-🌱 I’m currently learning AI/ML, DevOp, Java SrpingBoot, AWS and Azure services, Java SrpingBoot<br>
+🌱 I’m currently learning AI/ML, DevOp, Java SrpingBoot, Docker, AWS and Azure services<br>
 🔭 I’m currently working on a social media application for book lovers "BookPal"<br>
 
 
